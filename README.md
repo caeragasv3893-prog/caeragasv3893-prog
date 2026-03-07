@@ -1,7 +1,7 @@
 <div align="center">
 
 # Hi, I'm Bruno
-### Estudante de Programação na ATEC
+### Atec Trainee
 
 </div>
 
@@ -16,7 +16,7 @@
 
 ## About Me
 
-Estudante apaixonado por tecnologia, a dar os primeiros passos no mundo do desenvolvimento. Estou a aprender e a crescer todos os dias.
+Student passionate about technology, taking his first steps in the world of development. I am learning and growing every day.
 
 ---
 
