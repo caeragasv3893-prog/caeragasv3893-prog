@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:09090B,55:191229,100:3A245B&height=220&section=header&text=Bruno&fontSize=62&fontColor=F3F0FF&fontAlign=14&fontAlignY=40&desc=SOFTWARE%20DEVELOPMENT%20%7C%20ATEC%20%7C%20PORTUGAL&descAlign=14&descAlignY=67&descSize=16&fontFamily=Roboto&animation=fadeIn" width="100%" alt="Bruno — Software Development Student at ATEC in Portugal" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:09090B,55:171321,100:302044&height=190&section=header&text=Bruno&fontSize=54&fontColor=F4F4F5&fontAlign=8&fontAlignY=40&desc=Software%20Development%20Student%20%7C%20ATEC%20%7C%20Portugal&descAlign=8&descAlignY=66&descSize=16&fontFamily=Roboto&animation=fadeIn" width="100%" alt="Bruno — Software Development Student at ATEC in Portugal" />
 
 <br/>
 
