@@ -1,62 +1,66 @@
 <div align="center">
 
-<img src="./assets/profile-header.svg" width="100%" alt="Bruno — Software Development Student" />
+# Bruno
 
-<br/>
+**Software Development Student · ATEC · Portugal**
 
-<a href="https://github.com/caeragasv3893-prog">
-  <img src="https://img.shields.io/badge/GitHub-caeragasv3893--prog-111318?style=flat-square&logo=github&logoColor=white" alt="GitHub profile" />
-</a>
-<img src="https://img.shields.io/badge/ATEC-Software%20Development-17141f?style=flat-square&labelColor=17141f&color=6e40c9" alt="ATEC student" />
-<img src="https://img.shields.io/badge/Portugal-17141f?style=flat-square&logo=googlemaps&logoColor=a78bfa&labelColor=17141f&color=8f263f" alt="Based in Portugal" />
+[![GitHub](https://img.shields.io/badge/GitHub-caeragasv3893--prog-161b22?style=flat-square&logo=github&logoColor=c9d1d9)](https://github.com/caeragasv3893-prog)
+[![Linux Essentials](https://img.shields.io/badge/Certification-Linux%20Essentials-161b22?style=flat-square&logo=linux&logoColor=9b8afb)](#certifications)
+[![Intermediate Python](https://img.shields.io/badge/Certification-Intermediate%20Python-161b22?style=flat-square&logo=python&logoColor=9b8afb)](#certifications)
 
 </div>
 
 ---
 
-## About
+## Profile
 
-I'm a software development student at **ATEC in Portugal**, focused on learning how to build reliable applications and developing a strong foundation in programming.
+I'm a software development student at **ATEC in Portugal**, building practical experience through projects and structured learning.
 
-I like working on practical projects, exploring how software works under the hood, and improving my skills by solving real development problems.
+My interests include application development, desktop software, Linux and understanding how software works beyond the surface. I enjoy taking ideas from an initial concept to a working project and improving them as I learn.
 
-- **Currently learning:** Python, C/C++, TypeScript and React Native
-- **Main interests:** Application development, desktop software, Linux and software architecture
-- **Approach:** Understand the fundamentals, build projects, iterate and improve
+| Current focus | Areas of interest |
+|:--|:--|
+| Python, C/C++, TypeScript and React Native | Software engineering |
+| Desktop application development | Linux and operating systems |
+| Building and refining personal projects | Application architecture |
 
-## Projects
+## Selected Projects
 
-### [ShieldBrowser](https://github.com/caeragasv3893-prog/shieldbrowser)
-
-A Windows desktop browser project focused on a practical browsing experience and useful built-in features.
-
-- Browser profile management and ongoing feature development
-- Update handling and desktop packaging
-- Built as a long-term software project
-
-`Desktop development` `Browser` `JavaScript / TypeScript`
-
-### OrbitLauncher
-
-A native Windows launcher for Minecraft, combining a C++ backend with a React and TypeScript frontend.
-
-- Minecraft version and loader management
-- Profile management, mods and shaders
-- Native Windows integration through WebView2
-
-`C++` `React` `TypeScript` `CMake` `WebView2`
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/caeragasv3893-prog/shieldbrowser">ShieldBrowser</a></h3>
+      <p>A Windows desktop browser project with custom browser features and profile management.</p>
+      <p><sub><b>Focus</b> · Desktop development · Browser features</sub></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>OrbitLauncher</h3>
+      <p>A native Windows Minecraft launcher combining a C++ backend with a React and TypeScript frontend.</p>
+      <p><sub><b>Stack</b> · C++ · React · TypeScript · CMake · WebView2</sub></p>
+    </td>
+  </tr>
+</table>
 
 ## Certifications
 
-<div align="center">
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <p><img src="https://img.shields.io/badge/LINUX-111318?style=flat-square&logo=linux&logoColor=9b8afb" alt="Linux" /></p>
+      <strong>Linux Essentials</strong>
+      <br/>
+      <sub>Linux fundamentals and command-line concepts.</sub>
+    </td>
+    <td width="50%" valign="top">
+      <p><img src="https://img.shields.io/badge/PYTHON-111318?style=flat-square&logo=python&logoColor=9b8afb" alt="Python" /></p>
+      <strong>Intermediate Python</strong>
+      <br/>
+      <sub>Python programming beyond the beginner level.</sub>
+    </td>
+  </tr>
+</table>
 
-<img src="https://img.shields.io/badge/Linux-Linux%20Essentials-111318?style=for-the-badge&logo=linux&logoColor=a78bfa&labelColor=111318&color=342344" alt="Linux Essentials certificate" />
-&nbsp;
-<img src="https://img.shields.io/badge/Python-Intermediate%20Python-111318?style=for-the-badge&logo=python&logoColor=a78bfa&labelColor=111318&color=342344" alt="Intermediate Python certificate" />
-
-</div>
-
-## Technologies
+## Technical Skills
 
 <div align="center">
 
@@ -64,13 +68,9 @@ A native Windows launcher for Minecraft, combining a C++ backend with a React an
 
 <img src="https://skillicons.dev/icons?i=python,c,cpp,cs,js,ts&theme=dark" alt="Python, C, C++, C sharp, JavaScript and TypeScript" />
 
-<br/>
-
-**Frameworks & Runtime**
+**Development**
 
 <img src="https://skillicons.dev/icons?i=react,nodejs,html,css,vite&theme=dark" alt="React, Node.js, HTML, CSS and Vite" />
-
-<br/>
 
 **Tools & Platforms**
 
@@ -82,13 +82,13 @@ A native Windows launcher for Minecraft, combining a C++ backend with a React an
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=caeragasv3893-prog&show_icons=true&hide_title=true&hide_border=true&bg_color=0d1117&text_color=a8a5b3&icon_color=a78bfa&title_color=c4b5fd&ring_color=8b5cf6" alt="GitHub statistics" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=caeragasv3893-prog&show_icons=true&hide_title=true&hide_border=true&bg_color=0d1117&text_color=c9d1d9&icon_color=9b8afb&title_color=c9d1d9" alt="GitHub statistics" />
 &nbsp;
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caeragasv3893-prog&layout=compact&langs_count=6&hide_border=true&bg_color=0d1117&text_color=a8a5b3&title_color=c4b5fd" alt="Most used programming languages" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caeragasv3893-prog&layout=compact&langs_count=6&hide_border=true&bg_color=0d1117&text_color=c9d1d9&title_color=c9d1d9" alt="Most used languages" />
 
 <br/><br/>
 
-<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=caeragasv3893-prog&bg_color=0d1117&color=a8a5b3&line=8b5cf6&point=c4b5fd&area=true&area_color=342344&hide_border=true&custom_title=Contribution%20History" alt="GitHub contribution graph" />
+<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=caeragasv3893-prog&bg_color=0d1117&color=c9d1d9&line=8170c9&point=c9d1d9&area=true&hide_border=true&custom_title=Contribution%20History" alt="GitHub contribution history" />
 
 </div>
 
@@ -96,10 +96,8 @@ A native Windows launcher for Minecraft, combining a C++ backend with a React an
 
 <div align="center">
 
-**Learning continuously. Building things that work.**
+*Learn the fundamentals. Build useful things. Keep improving.*
 
-<a href="https://github.com/caeragasv3893-prog?tab=repositories">
-  <img src="https://img.shields.io/badge/Explore_repositories-17141f?style=for-the-badge&logo=github&logoColor=white&labelColor=17141f&color=6e40c9" alt="Explore repositories" />
-</a>
+[**Explore all repositories →**](https://github.com/caeragasv3893-prog?tab=repositories)
 
 </div>
