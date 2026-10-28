@@ -1,13 +1,12 @@
 <div align="center">
 
-# Bruno
+<img src="https://capsule-render.vercel.app/api?type=slice&color=0:0D1117,68:14121D,100:38235C&height=200&section=header&text=Bruno&fontSize=58&fontColor=F3F4F6&fontAlignY=39&desc=SOFTWARE%20DEVELOPMENT%20STUDENT%20%7C%20ATEC%20%7C%20PORTUGAL&descAlignY=68&descSize=16&fontFamily=Roboto&animation=fadeIn" width="100%" alt="Bruno — Software Development Student at ATEC in Portugal" />
 
-**Software Development Student · ATEC · Portugal**
+<br/>
 
 [![GitHub](https://img.shields.io/badge/GitHub-caeragasv3893--prog-161b22?style=flat-square&logo=github&logoColor=c9d1d9)](https://github.com/caeragasv3893-prog)
 [![Linux Essentials](https://img.shields.io/badge/Certification-Linux%20Essentials-161b22?style=flat-square&logo=linux&logoColor=9b8afb)](#certifications)
 [![Intermediate Python](https://img.shields.io/badge/Certification-Intermediate%20Python-161b22?style=flat-square&logo=python&logoColor=9b8afb)](#certifications)
-
 </div>
 
 ---
