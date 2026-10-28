@@ -39,8 +39,6 @@ My main interests are **software engineering, desktop applications, Linux and ap
 
 ShieldBrowser focuses on browser features and profile management. OrbitLauncher combines a C++ backend with React, TypeScript and WebView2 for Minecraft version, loader, profile, mod and shader management.
 
-</table>
-
 ## Certifications
 
 <div align="center">
@@ -49,8 +47,6 @@ ShieldBrowser focuses on browser features and profile management. OrbitLauncher 
 <img src="https://github-banner-weld.vercel.app/api/banner?theme=mesh&text=Intermediate%20Python&subtitle=Python%20programming%20beyond%20the%20basics&primary=0F0C15&secondary=171222&accent=251A35&background=0B0B10&width=600&height=140&radius=17&blur=100&animationSpeed=0.6&showGlow=false&showNoise=false&layout=left&titleSize=25&subtitleSize=13&titleWeight=700&subtitleWeight=500&pointCount=2" width="48%" alt="Intermediate Python certification" />
 
 </div>
-
-</table>
 
 ## Technical Skills
 
