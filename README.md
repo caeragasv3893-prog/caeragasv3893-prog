@@ -1,134 +1,97 @@
-<div align="center">
+ <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hi,%20I'm%20Bruno%20👋&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Atec%20Trainee%20%7C%20Portugal%20🇵🇹&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:25142f,100:6e40c9&height=210&section=header&text=Bruno&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=Student%20%7C%20Developer%20%7C%20Builder&descAlignY=60&descSize=17" width="100%" />
 
-</div>
+<br/>
 
-<div align="center">
+<a href="https://github.com/caeragasv3893-prog">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=900&color=A78BFA&center=true&vCenter=true&width=650&lines=Turning+ideas+into+real+projects.;Exploring+software%2C+UI%2FUX+and+development.;Learning+by+building%2C+one+project+at+a+time." alt="Typing introduction" />
+</a>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6E40C9&center=true&vCenter=true&random=false&width=600&lines=Student+passionate+about+technology+💻;Learning+Python+%7C+React+%7C+C%23+🚀;Building+the+future%2C+one+commit+at+a+time+✨;Always+learning%2C+always+growing+📚)](https://git.io/typing-svg)
+<br/><br/>
+
+[![GitHub](https://img.shields.io/badge/GitHub-caeragasv3893--prog-181717?style=flat-square&logo=github)](https://github.com/caeragasv3893-prog)
+![Location](https://img.shields.io/badge/Portugal-991B1B?style=flat-square&logo=googlemaps&logoColor=white)
+![Status](https://img.shields.io/badge/Always_learning-7C3AED?style=flat-square)
 
 </div>
 
 ---
 
-<img align="right" alt="Coding" width="360" src="https://raw.githubusercontent.com/gist/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif"/>
+## About
 
-### 👨‍💻 About Me
+I'm a student at **ATEC in Portugal**, interested in software development, desktop applications and building products that feel as good to use as they are to look at.
 
-```python
-class Bruno:
-    def __init__(self):
-        self.name       = "Bruno"
-        self.username   = "caeragasv3893-prog"
-        self.location   = "Portugal 🇵🇹"
-        self.school     = "ATEC Trainee"
-        self.languages  = ["Python", "C#", "JavaScript"]
-        self.frameworks = ["React", "React Native"]
-        self.status     = "Learning & Growing every day 🚀"
+I enjoy experimenting with different technologies, exploring interface design and turning ideas into working projects.
 
-    def say_hi(self):
-        print("Thanks for visiting my profile!")
+- Currently exploring **Python, C/C++, TypeScript and React Native**.
+- Building desktop software and experimenting with custom UI.
+- Interested in application development, software architecture and UI/UX.
+- Focused on learning through real projects rather than tutorials alone.
 
-me = Bruno()
-me.say_hi()
-```
+## Featured Projects
 
-<br>
+<table>
+<tr>
+<td width="50%" valign="top">
 
-- 🎓 &nbsp; Studying at **ATEC**
-- 🌱 &nbsp; Currently learning **React Native** & **Python**
-- 💡 &nbsp; Passionate about building real-world solutions
-- 🎯 &nbsp; Goal: Become a full-stack developer
-- 🌍 &nbsp; Based in **Portugal**
+### [ShieldBrowser](https://github.com/caeragasv3893-prog/shieldbrowser)
 
----
+A custom desktop browser project focused on a distinctive interface and a more polished browsing experience.
 
-<br clear="right"/>
+- Custom browser UI
+- Profile management
+- Interface and usability improvements
 
-### 🛠️ Tech Stack
+**Focus:** Desktop development · UI/UX
+
+</td>
+<td width="50%" valign="top">
+
+### OrbitLauncher
+
+A native Windows Minecraft launcher built around a custom interface and a C++ backend.
+
+- Minecraft version and loader management
+- Profiles, mods and shaders
+- React + TypeScript interface
+- Native integration with WebView2
+
+**Stack:** C++ · React · TypeScript · CMake
+
+</td>
+</tr>
+</table>
+
+## Tech Stack
 
 <div align="center">
 
 **Languages**
 
-![Python](https://img.shields.io/badge/Python-3572A5?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-178600?style=flat&logo=csharp&logoColor=white)
+<img src="https://skillicons.dev/icons?i=python,c,cpp,cs,js,ts&theme=dark" alt="Programming languages" />
 
-**Frameworks & Libraries**
+**Frameworks & Development**
 
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+<img src="https://skillicons.dev/icons?i=react,nodejs,html,css,vite&theme=dark" alt="Frameworks and web technologies" />
 
-**Tools & Platforms**
+**Tools**
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,cmake&theme=dark" alt="Development tools" />
 
 </div>
 
----
-
-### 📊 GitHub Stats
+## GitHub Activity
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=caeragasv3893-prog&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caeragasv3893-prog&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=caeragasv3893-prog&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&rank_icon=github" alt="GitHub statistics" />
 
-</div>
+<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caeragasv3893-prog&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa" alt="Most used languages" />
 
-<div align="center">
+<br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=caeragasv3893-prog&theme=tokyonight&hide_border=true&background=0d1117" alt="streak"/>
-
-</div>
-
----
-
-### 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=caeragasv3893-prog&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" alt="trophies"/>
-
-</div>
-
----
-
-### 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=caeragasv3893-prog&theme=tokyo-night&hide_border=true&bg_color=0d1117" alt="activity graph" width="100%"/>
-
-</div>
-
----
-
-### 🌐 Connect With Me
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-caeragasv3893--prog-181717?style=flat&logo=github&logoColor=white)](https://github.com/caeragasv3893-prog)
-[![Location](https://img.shields.io/badge/Location-Portugal%20🇵🇹-009B3A?style=flat&logoColor=white)]()
-
-</div>
-
----
-
-### 💭 Random Dev Quote
-
-<div align="center">
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=caeragasv3893-prog&bg_color=0d1117&color=c4b5fd&line=8b5cf6&point=ffffff&area=true&hide_border=true" alt="GitHub contribution activity" />
 
 </div>
 
@@ -136,10 +99,20 @@ me.say_hi()
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+### Building. Learning. Improving.
 
-![Profile Views](https://komarev.com/ghpvc/?username=caeragasv3893-prog&color=6E40C9&style=flat-square&label=Profile+Views)
+*The goal isn't just to write code. It's to build things worth using.*
 
-*"Student passionate about technology, taking his first steps in the world of development. Learning and growing every day."*
+<br/>
+
+<a href="https://github.com/caeragasv3893-prog?tab=repositories">
+  <img src="https://img.shields.io/badge/Explore_my_repositories-6E40C9?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories" />
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=caeragasv3893-prog&style=flat-square&color=6e40c9&label=PROFILE+VIEWS" alt="Profile views" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6e40c9,100:0d1117&height=100&section=footer" width="100%" />
 
 </div>
