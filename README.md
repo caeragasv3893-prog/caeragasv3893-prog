@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://github-banner-weld.vercel.app/api/banner?theme=mesh&text=Bruno&subtitle=Software%20Development%20Student%20%7C%20ATEC%20%7C%20Portugal&primary=0F0C15&secondary=171222&accent=251A35&background=0B0B10&width=1280&height=180&radius=13&blur=100&animationSpeed=0.6&showGlow=false&showNoise=false&layout=left&titleSize=56&subtitleSize=18&titleWeight=700&subtitleWeight=500&pointCount=3" width="100%" alt="Bruno — Software Development Student at ATEC in Portugal" />
+<img src="https://github-banner-weld.vercel.app/api/banner?theme=mesh&text=Bruno&subtitle=Software%20Development%20Student%20%7C%20ATEC%20%7C%20Portugal&primary=0F0C15&secondary=171222&accent=251A35&background=0B0B10&width=1280&height=180&radius=17&blur=100&animationSpeed=0.6&showGlow=false&showNoise=false&layout=left&titleSize=56&subtitleSize=18&titleWeight=700&subtitleWeight=500&pointCount=3" width="100%" alt="Bruno — Software Development Student at ATEC in Portugal" />
 
 <br/>
 
