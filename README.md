@@ -4,9 +4,9 @@
 
 <br/>
 
-[![GitHub](https://img.shields.io/badge/GitHub-caeragasv3893--prog-161b22?style=flat-square&logo=github&logoColor=c9d1d9)](https://github.com/caeragasv3893-prog)
-[![Linux Essentials](https://img.shields.io/badge/Certification-Linux%20Essentials-161b22?style=flat-square&logo=linux&logoColor=9b8afb)](#certifications)
-[![Intermediate Python](https://img.shields.io/badge/Certification-Intermediate%20Python-161b22?style=flat-square&logo=python&logoColor=9b8afb)](#certifications)
+[![GitHub](https://img.shields.io/badge/GitHub-caeragasv3893--prog-161b22?style=flat&logo=github&logoColor=c9d1d9)](https://github.com/caeragasv3893-prog)
+[![Linux Essentials](https://img.shields.io/badge/Certification-Linux%20Essentials-161b22?style=flat&logo=linux&logoColor=9b8afb)](#certifications)
+[![Intermediate Python](https://img.shields.io/badge/Certification-Intermediate%20Python-161b22?style=flat&logo=python&logoColor=9b8afb)](#certifications)
 </div>
 
 ---
@@ -17,46 +17,39 @@ I'm a software development student at **ATEC in Portugal**, building practical e
 
 My interests include application development, desktop software, Linux and understanding how software works beyond the surface. I enjoy taking ideas from an initial concept to a working project and improving them as I learn.
 
-| Current focus | Areas of interest |
-|:--|:--|
-| Python, C/C++, TypeScript and React Native | Software engineering |
-| Desktop application development | Linux and operating systems |
-| Building and refining personal projects | Application architecture |
+[![Python](https://img.shields.io/badge/Currently%20learning-Python-15121e?style=flat&logo=python&logoColor=a78bfa)](https://www.python.org/)
+[![C and C++](https://img.shields.io/badge/C%20%2F%20C%2B%2B-15121e?style=flat&logo=cplusplus&logoColor=a78bfa)](https://isocpp.org/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-15121e?style=flat&logo=typescript&logoColor=a78bfa)](https://www.typescriptlang.org/)
+[![Linux](https://img.shields.io/badge/Linux-15121e?style=flat&logo=linux&logoColor=a78bfa)](https://www.linux.org/)
+
+My main interests are **software engineering, desktop applications, Linux and application architecture**. I learn by building projects and improving them through iteration.
 
 ## Selected Projects
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/caeragasv3893-prog/shieldbrowser">ShieldBrowser</a></h3>
-      <p>A Windows desktop browser project with custom browser features and profile management.</p>
-      <p><sub><b>Focus</b> · Desktop development · Browser features</sub></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>OrbitLauncher</h3>
-      <p>A native Windows Minecraft launcher combining a C++ backend with a React and TypeScript frontend.</p>
-      <p><sub><b>Stack</b> · C++ · React · TypeScript · CMake · WebView2</sub></p>
-    </td>
-  </tr>
+<div align="center">
+
+<a href="https://github.com/caeragasv3893-prog/shieldbrowser">
+<img src="https://github-banner-weld.vercel.app/api/banner?theme=mesh&text=ShieldBrowser&subtitle=Windows%20Desktop%20Browser&primary=0F0C15&secondary=171222&accent=251A35&background=0B0B10&width=600&height=180&radius=17&blur=100&animationSpeed=0.6&showGlow=false&showNoise=false&layout=left&titleSize=30&subtitleSize=14&titleWeight=700&subtitleWeight=500&pointCount=3" width="48%" alt="ShieldBrowser — Windows desktop browser" />
+</a>
+<a href="https://github.com/caeragasv3893-prog?tab=repositories">
+<img src="https://github-banner-weld.vercel.app/api/banner?theme=mesh&text=OrbitLauncher&subtitle=Native%20Windows%20Minecraft%20Launcher&primary=0F0C15&secondary=171222&accent=251A35&background=0B0B10&width=600&height=180&radius=17&blur=100&animationSpeed=0.6&showGlow=false&showNoise=false&layout=left&titleSize=30&subtitleSize=14&titleWeight=700&subtitleWeight=500&pointCount=3" width="48%" alt="OrbitLauncher — native Windows Minecraft launcher" />
+</a>
+
+</div>
+
+ShieldBrowser focuses on browser features and profile management. OrbitLauncher combines a C++ backend with React, TypeScript and WebView2 for Minecraft version, loader, profile, mod and shader management.
+
 </table>
 
 ## Certifications
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <p><img src="https://img.shields.io/badge/LINUX-111318?style=flat-square&logo=linux&logoColor=9b8afb" alt="Linux" /></p>
-      <strong>Linux Essentials</strong>
-      <br/>
-      <sub>Linux fundamentals and command-line concepts.</sub>
-    </td>
-    <td width="50%" valign="top">
-      <p><img src="https://img.shields.io/badge/PYTHON-111318?style=flat-square&logo=python&logoColor=9b8afb" alt="Python" /></p>
-      <strong>Intermediate Python</strong>
-      <br/>
-      <sub>Python programming beyond the beginner level.</sub>
-    </td>
-  </tr>
+<div align="center">
+
+<img src="https://github-banner-weld.vercel.app/api/banner?theme=mesh&text=Linux%20Essentials&subtitle=Linux%20fundamentals%20and%20command-line%20concepts&primary=0F0C15&secondary=171222&accent=251A35&background=0B0B10&width=600&height=140&radius=17&blur=100&animationSpeed=0.6&showGlow=false&showNoise=false&layout=left&titleSize=25&subtitleSize=13&titleWeight=700&subtitleWeight=500&pointCount=2" width="48%" alt="Linux Essentials certification" />
+<img src="https://github-banner-weld.vercel.app/api/banner?theme=mesh&text=Intermediate%20Python&subtitle=Python%20programming%20beyond%20the%20basics&primary=0F0C15&secondary=171222&accent=251A35&background=0B0B10&width=600&height=140&radius=17&blur=100&animationSpeed=0.6&showGlow=false&showNoise=false&layout=left&titleSize=25&subtitleSize=13&titleWeight=700&subtitleWeight=500&pointCount=2" width="48%" alt="Intermediate Python certification" />
+
+</div>
+
 </table>
 
 ## Technical Skills
@@ -81,13 +74,13 @@ My interests include application development, desktop software, Linux and unders
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=caeragasv3893-prog&show_icons=true&hide_title=true&hide_border=true&bg_color=0d1117&text_color=c9d1d9&icon_color=9b8afb&title_color=c9d1d9" alt="GitHub statistics" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=caeragasv3893-prog&show_icons=true&hide_title=true&border_radius=17&border_color=30243f&bg_color=0d1117&text_color=c9d1d9&icon_color=9b8afb&title_color=c9d1d9" alt="GitHub statistics" />
 &nbsp;
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caeragasv3893-prog&layout=compact&langs_count=6&hide_border=true&bg_color=0d1117&text_color=c9d1d9&title_color=c9d1d9" alt="Most used languages" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caeragasv3893-prog&layout=compact&langs_count=6&border_radius=17&border_color=30243f&bg_color=0d1117&text_color=c9d1d9&title_color=c9d1d9" alt="Most used languages" />
 
 <br/><br/>
 
-<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=caeragasv3893-prog&bg_color=0d1117&color=c9d1d9&line=8170c9&point=c9d1d9&area=true&hide_border=true&custom_title=Contribution%20History" alt="GitHub contribution history" />
+<img width="96%" src="https://streak-stats.demolab.com?user=caeragasv3893-prog&theme=tokyonight&hide_border=true&border_radius=17&background=0D1117&ring=9B8AFB&fire=9B8AFB&currStreakLabel=C9D1D9&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B8B8B" alt="GitHub contribution streak" />
 
 </div>
 
