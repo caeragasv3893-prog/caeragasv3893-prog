@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" viewBox="0 0 1200 260" role="img" aria-labelledby="title"><title id="title">About Bruno — desktop applications, web development and Linux</title><defs><radialGradient id="mesh" cx="95%" cy="0%" r="100%"><stop stop-color="#513469" stop-opacity=".48"/><stop offset=".55" stop-color="#251c34" stop-opacity=".3"/><stop offset="1" stop-color="#111016" stop-opacity="0"/></radialGradient><clipPath id="clip"><rect x="1" y="1" width="1198" height="258" rx="22"/></clipPath></defs><g clip-path="url(#clip)"><rect width="1200" height="260" fill="#111016"/><rect width="1200" height="260" fill="url(#mesh)"/><g font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif">
+<text x="44" y="46" font-size="14" fill="#b8a0eb" font-weight="600" letter-spacing="2.5">01 / A LITTLE ABOUT ME</text>
+<text x="44" y="98" font-size="32" fill="#eee8f5" font-weight="600">Curious about the interface.</text>
+<text x="44" y="141" font-size="32" fill="#c4a7ec" font-weight="600">Even more curious about what powers it.</text>
+<text x="44" y="188" font-size="21" fill="#b6afc5" >I'm Bruno, a software development student at ATEC in Portugal.</text>
+<text x="44" y="221" font-size="21" fill="#b6afc5" >I build web and desktop projects, explore Linux and learn how the pieces fit together.</text>
+</g></g><rect x="1" y="1" width="1198" height="258" rx="22" fill="none" stroke="#342a40"/></svg>

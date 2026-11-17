@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="350" viewBox="0 0 1200 350" role="img" aria-labelledby="title"><title id="title">Bruno — Software Development Student at ATEC, Portugal</title><defs><radialGradient id="mesh" cx="95%" cy="0%" r="100%"><stop stop-color="#513469" stop-opacity=".48"/><stop offset=".55" stop-color="#251c34" stop-opacity=".3"/><stop offset="1" stop-color="#111016" stop-opacity="0"/></radialGradient><clipPath id="clip"><rect x="1" y="1" width="1198" height="348" rx="22"/></clipPath></defs><g clip-path="url(#clip)"><rect width="1200" height="350" fill="#111016"/><rect width="1200" height="350" fill="url(#mesh)"/><g font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif">
+<text x="52" y="54" font-size="14" fill="#b8a0eb" font-weight="600" letter-spacing="2.5">BRUNO / PERSONAL SPACE</text>
+<text x="46" y="170" font-size="78" fill="#f2edf7" font-weight="650" letter-spacing="-3">Ideas into</text>
+<text x="46" y="249" font-size="78" fill="#c4a7ec" font-weight="650" letter-spacing="-3">working software.</text>
+<path d="M52 291H1148" stroke="#3b2d49"/>
+<text x="52" y="323" font-size="17" fill="#c9bfd5" >Software Development Student</text>
+<text x="1148" y="323" font-size="14" fill="#b4a2cb" text-anchor="end" letter-spacing="1.5">ATEC  /  PORTUGAL</text>
+<g transform="translate(955 95)" fill="none" stroke="#bfa0e4"><rect width="125" height="125" rx="28" transform="rotate(15 62 62)" opacity=".1"/><rect x="11" y="11" width="103" height="103" rx="23" transform="rotate(30 62 62)" opacity=".18"/><rect x="25" y="25" width="75" height="75" rx="17" transform="rotate(45 62 62)" opacity=".3"/></g></g></g><rect x="1" y="1" width="1198" height="348" rx="22" fill="none" stroke="#342a40"/></svg>

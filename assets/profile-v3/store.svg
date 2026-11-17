@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="590" height="252" viewBox="0 0 590 252" role="img" aria-labelledby="title"><title id="title">Store Template — responsive HTML, CSS and JavaScript fashion storefront</title><defs><radialGradient id="mesh" cx="95%" cy="0%" r="100%"><stop stop-color="#513469" stop-opacity=".48"/><stop offset=".55" stop-color="#251c34" stop-opacity=".3"/><stop offset="1" stop-color="#111016" stop-opacity="0"/></radialGradient><clipPath id="clip"><rect x="1" y="1" width="588" height="250" rx="22"/></clipPath></defs><g clip-path="url(#clip)"><rect width="590" height="252" fill="#111016"/><rect width="590" height="252" fill="url(#mesh)"/><g font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif">
+<text x="32" y="43" font-size="14" fill="#b8a0eb" font-weight="600" letter-spacing="2.5">OPEN SOURCE / FRONT END</text>
+<text x="32" y="91" font-size="32" fill="#f2edf7" font-weight="600" letter-spacing="-.5">Store Template</text>
+<text x="32" y="130" font-size="21" fill="#b6afc5" >A responsive fashion storefront.</text>
+<text x="32" y="162" font-size="21" fill="#b6afc5" >Light / dark mode and a front-end cart.</text>
+<rect x="32" y="193" width="245" height="34" rx="17" fill="#c4a7ff" fill-opacity=".07" stroke="#453650"/><text x="154.5" y="215" font-size="14" fill="#d4c7e8" text-anchor="middle">HTML · CSS · JavaScript</text>
+<text x="550" y="43" font-size="25" fill="#c4a7ec" text-anchor="end">↗</text></g></g><rect x="1" y="1" width="588" height="250" rx="22" fill="none" stroke="#342a40"/></svg>

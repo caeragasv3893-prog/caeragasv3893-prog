@@ -1,84 +1,57 @@
-<div align="center">
+<!-- Custom SVG cards live in assets/profile-v3. No external rendering services. -->
 
-<img src="https://raw.githubusercontent.com/caeragasv3893-prog/caeragasv3893-prog/8ec78a66a9d2729a07b1aa0bc464aa34467eda6f/assets/bruno-hero-v2.svg" width="100%" alt="Bruno — Software Development Student at ATEC, Portugal. Desktop apps, web and Linux." />
+<img src="https://raw.githubusercontent.com/caeragasv3893-prog/caeragasv3893-prog/main/assets/profile-v3/hero.svg" width="100%" alt="Bruno — Software Development Student at ATEC, Portugal. Ideas into working software." />
 
-<br />
+<p align="center">
+  <a href="#about">About</a> &nbsp;·&nbsp;
+  <a href="#projects">Projects</a> &nbsp;·&nbsp;
+  <a href="#toolbox">Toolbox</a> &nbsp;·&nbsp;
+  <a href="#learning">Learning</a>
+</p>
 
-**Learning by building. Understanding what happens under the hood.**
+<a id="about"></a>
 
-[About](#01--about-me) · [Projects](#02--selected-work) · [Toolbox](#03--my-toolbox) · [Learning](#04--learning-path)
+<img src="https://raw.githubusercontent.com/caeragasv3893-prog/caeragasv3893-prog/main/assets/profile-v3/about.svg" width="100%" alt="I'm Bruno, a software development student at ATEC in Portugal. I build web and desktop projects, explore Linux and learn how the pieces fit together." />
 
-</div>
+<a id="projects"></a>
 
-<br />
+<img src="https://raw.githubusercontent.com/caeragasv3893-prog/caeragasv3893-prog/main/assets/profile-v3/projects.svg" width="100%" alt="02 / Selected work — Built to learn. Made to use." />
 
-## 01 / About me
+<a href="https://github.com/caeragasv3893-prog/Every-Step-Count"><img src="https://raw.githubusercontent.com/caeragasv3893-prog/caeragasv3893-prog/main/assets/profile-v3/every-step.svg" width="100%" alt="Every Step Count: class results, rankings and daily achievements for ATEC Palmela's #TodosOsPassosContam solidarity initiative. Open the repository." /></a>
 
-Hey, I'm **Bruno**, a software development student at **ATEC, Portugal**.
+<p align="center">
+<a href="https://github.com/caeragasv3893-prog/Store-Template-Open-Source"><img src="https://raw.githubusercontent.com/caeragasv3893-prog/caeragasv3893-prog/main/assets/profile-v3/store.svg" width="49%" alt="Store Template: responsive HTML, CSS and JavaScript fashion storefront with light and dark modes and a front-end cart. Open the repository." /></a>
+&nbsp;
+<a href="https://github.com/caeragasv3893-prog/Fedora-Dotfiles"><img src="https://raw.githubusercontent.com/caeragasv3893-prog/caeragasv3893-prog/main/assets/profile-v3/fedora.svg" width="49%" alt="Fedora Dotfiles: Linux configuration, currently a work in progress. Open the repository." /></a>
+</p>
 
-I like turning an idea into something I can actually use — from web interfaces to desktop applications. I'm especially interested in **Linux**, **application architecture** and how the pieces of a program fit together.
+<p align="right"><a href="https://github.com/caeragasv3893-prog?tab=repositories&amp;type=public">All public repositories ↗</a></p>
 
-This profile is where I share what I'm building, experimenting with and learning along the way.
+<a id="toolbox"></a>
 
-```text
-bruno/
-├── building     → web projects & desktop applications
-├── exploring    → Linux, tooling & software architecture
-└── approach     → build it, understand it, make it better
-```
+<img src="https://raw.githubusercontent.com/caeragasv3893-prog/caeragasv3893-prog/main/assets/profile-v3/toolbox.svg" width="100%" alt="Technologies I'm learning and working with: Python, C, C++, C#, JavaScript, TypeScript; HTML, CSS, React, Node.js, Vite; Linux, Git, CMake, VS Code and Visual Studio." />
 
-## 02 / Selected work
+<a id="learning"></a>
 
-### 👟 [Every Step Count](https://github.com/caeragasv3893-prog/Every-Step-Count)
+<img src="https://raw.githubusercontent.com/caeragasv3893-prog/caeragasv3893-prog/main/assets/profile-v3/learning.svg" width="100%" alt="04 / Always learning — Fundamentals first." />
 
-A website for **ATEC Palmela's #TodosOsPassosContam initiative**: bringing class results, rankings and daily achievements together around a shared solidarity challenge.
+<p align="center">
+<img src="https://raw.githubusercontent.com/caeragasv3893-prog/caeragasv3893-prog/main/assets/profile-v3/linux.svg" width="49%" alt="Linux Essentials certification — Linux fundamentals and command line." />
+&nbsp;
+<img src="https://raw.githubusercontent.com/caeragasv3893-prog/caeragasv3893-prog/main/assets/profile-v3/python.svg" width="49%" alt="Intermediate Python certification — Python beyond the basics." />
+</p>
 
-`Community project` `Leaderboards` `Social impact`
+<a href="https://github.com/caeragasv3893-prog?tab=repositories"><img src="https://raw.githubusercontent.com/caeragasv3893-prog/caeragasv3893-prog/main/assets/profile-v3/footer.svg" width="100%" alt="Build. Understand. Improve. Explore my repositories." /></a>
 
-### 🛍️ [Store Template](https://github.com/caeragasv3893-prog/Store-Template-Open-Source)
+<details>
+<summary>Profile in plain text</summary>
 
-A responsive fashion storefront built with **HTML, CSS and JavaScript**, featuring light and dark modes and a front-end shopping cart. A starting point for customisation.
+I'm **Bruno**, a software development student at **ATEC, Portugal**, interested in desktop applications, web development, Linux and software architecture.
 
-`Open source` `Responsive design` `Front-end only`
-
-### 🐧 [Fedora Dotfiles](https://github.com/caeragasv3893-prog/Fedora-Dotfiles)
-
-A work-in-progress home for my Fedora configuration. Still taking shape as I explore and refine my Linux setup.
-
-`Linux` `Fedora` `Work in progress`
-
-**[Browse all public repositories ↗](https://github.com/caeragasv3893-prog?tab=repositories&type=public)**
-
-## 03 / My toolbox
-
-Technologies I'm learning and working with across my projects.
-
-**Languages**
-
-<img src="https://skillicons.dev/icons?i=python,c,cpp,cs,js,ts&amp;theme=dark" alt="Python, C, C++, C#, JavaScript and TypeScript" />
-
-**Web & interfaces**
-
-<img src="https://skillicons.dev/icons?i=html,css,react,nodejs,vite&amp;theme=dark" alt="HTML, CSS, React, Node.js and Vite" />
-
-**Tools & environment**
-
-<img src="https://skillicons.dev/icons?i=linux,git,github,vscode,visualstudio,cmake&amp;theme=dark" alt="Linux, Git, GitHub, VS Code, Visual Studio and CMake" />
-
-## 04 / Learning path
-
-- **Studying:** software development at ATEC.
-- **Going deeper:** Python, C/C++, TypeScript and application architecture.
+- **[Every Step Count](https://github.com/caeragasv3893-prog/Every-Step-Count):** a community challenge website with class results, rankings and daily achievements.
+- **[Store Template](https://github.com/caeragasv3893-prog/Store-Template-Open-Source):** a responsive HTML, CSS and JavaScript storefront with light/dark mode and a front-end cart.
+- **[Fedora Dotfiles](https://github.com/caeragasv3893-prog/Fedora-Dotfiles):** my Fedora configuration, currently a work in progress.
+- **Learning and working with:** Python, C/C++, C#, JavaScript, TypeScript, HTML/CSS, React, Node.js, Vite, Linux, Git, CMake, VS Code and Visual Studio.
 - **Certifications:** Linux Essentials · Intermediate Python.
 
-<br />
-
----
-
-<div align="center">
-
-<sub>From the first working version to the next better one.</sub>
-
-**Build. Understand. Improve.**
-
-</div>
+</details>
