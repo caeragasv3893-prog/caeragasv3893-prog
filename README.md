@@ -1,91 +1,84 @@
 <div align="center">
 
-<img src="https://github-banner-weld.vercel.app/api/banner?theme=mesh&text=Bruno&subtitle=Software%20Development%20Student%20%7C%20ATEC%20%7C%20Portugal&primary=0F0C15&secondary=171222&accent=251A35&background=0B0B10&width=1280&height=180&radius=17&blur=100&animationSpeed=0.6&showGlow=false&showNoise=false&layout=left&titleSize=56&subtitleSize=18&titleWeight=700&subtitleWeight=500&pointCount=3" width="100%" alt="Bruno — Software Development Student at ATEC in Portugal" />
+<img src="./assets/bruno-terminal.svg" width="100%" alt="Bruno — Software Development Student at ATEC, Portugal. Desktop apps, web and Linux." />
 
-<br/>
+<br />
 
-[![GitHub](https://img.shields.io/badge/GitHub-caeragasv3893--prog-161b22?style=flat&logo=github&logoColor=c9d1d9)](https://github.com/caeragasv3893-prog)
-[![Linux Essentials](https://img.shields.io/badge/Certification-Linux%20Essentials-161b22?style=flat&logo=linux&logoColor=9b8afb)](#certifications)
-[![Intermediate Python](https://img.shields.io/badge/Certification-Intermediate%20Python-161b22?style=flat&logo=python&logoColor=9b8afb)](#certifications)
-</div>
+**Learning by building. Understanding what happens under the hood.**
 
----
-
-## Profile
-
-I'm a software development student at **ATEC in Portugal**, building practical experience through projects and structured learning.
-
-My interests include application development, desktop software, Linux and understanding how software works beyond the surface. I enjoy taking ideas from an initial concept to a working project and improving them as I learn.
-
-[![Python](https://img.shields.io/badge/Currently%20learning-Python-15121e?style=flat&logo=python&logoColor=a78bfa)](https://www.python.org/)
-[![C and C++](https://img.shields.io/badge/C%20%2F%20C%2B%2B-15121e?style=flat&logo=cplusplus&logoColor=a78bfa)](https://isocpp.org/)
-[![TypeScript](https://img.shields.io/badge/TypeScript-15121e?style=flat&logo=typescript&logoColor=a78bfa)](https://www.typescriptlang.org/)
-[![Linux](https://img.shields.io/badge/Linux-15121e?style=flat&logo=linux&logoColor=a78bfa)](https://www.linux.org/)
-
-My main interests are **software engineering, desktop applications, Linux and application architecture**. I learn by building projects and improving them through iteration.
-
-## Selected Projects
-
-<div align="center">
-
-<a href="https://github.com/caeragasv3893-prog/shieldbrowser">
-<img src="https://github-banner-weld.vercel.app/api/banner?theme=mesh&text=ShieldBrowser&subtitle=Windows%20Desktop%20Browser&primary=0F0C15&secondary=171222&accent=251A35&background=0B0B10&width=600&height=180&radius=17&blur=100&animationSpeed=0.6&showGlow=false&showNoise=false&layout=left&titleSize=30&subtitleSize=14&titleWeight=700&subtitleWeight=500&pointCount=3" width="48%" alt="ShieldBrowser — Windows desktop browser" />
-</a>
-<a href="https://github.com/caeragasv3893-prog?tab=repositories">
-<img src="https://github-banner-weld.vercel.app/api/banner?theme=mesh&text=OrbitLauncher&subtitle=Native%20Windows%20Minecraft%20Launcher&primary=0F0C15&secondary=171222&accent=251A35&background=0B0B10&width=600&height=180&radius=17&blur=100&animationSpeed=0.6&showGlow=false&showNoise=false&layout=left&titleSize=30&subtitleSize=14&titleWeight=700&subtitleWeight=500&pointCount=3" width="48%" alt="OrbitLauncher — native Windows Minecraft launcher" />
-</a>
+[About](#01--about-me) · [Projects](#02--selected-work) · [Toolbox](#03--my-toolbox) · [Learning](#04--learning-path)
 
 </div>
 
-ShieldBrowser focuses on browser features and profile management. OrbitLauncher combines a C++ backend with React, TypeScript and WebView2 for Minecraft version, loader, profile, mod and shader management.
+<br />
 
-## Certifications
+## 01 / About me
 
-<div align="center">
+Hey, I'm **Bruno**, a software development student at **ATEC, Portugal**.
 
-<img src="https://github-banner-weld.vercel.app/api/banner?theme=mesh&text=Linux%20Essentials&subtitle=Linux%20fundamentals%20and%20command-line%20concepts&primary=0F0C15&secondary=171222&accent=251A35&background=0B0B10&width=600&height=140&radius=17&blur=100&animationSpeed=0.6&showGlow=false&showNoise=false&layout=left&titleSize=25&subtitleSize=13&titleWeight=700&subtitleWeight=500&pointCount=2" width="48%" alt="Linux Essentials certification" />
-<img src="https://github-banner-weld.vercel.app/api/banner?theme=mesh&text=Intermediate%20Python&subtitle=Python%20programming%20beyond%20the%20basics&primary=0F0C15&secondary=171222&accent=251A35&background=0B0B10&width=600&height=140&radius=17&blur=100&animationSpeed=0.6&showGlow=false&showNoise=false&layout=left&titleSize=25&subtitleSize=13&titleWeight=700&subtitleWeight=500&pointCount=2" width="48%" alt="Intermediate Python certification" />
+I like turning an idea into something I can actually use — from web interfaces to desktop applications. I'm especially interested in **Linux**, **application architecture** and how the pieces of a program fit together.
 
-</div>
+This profile is where I share what I'm building, experimenting with and learning along the way.
 
-## Technical Skills
+```text
+bruno/
+├── building     → web projects & desktop applications
+├── exploring    → Linux, tooling & software architecture
+└── approach     → build it, understand it, make it better
+```
 
-<div align="center">
+## 02 / Selected work
+
+### 👟 [Every Step Count](https://github.com/caeragasv3893-prog/Every-Step-Count)
+
+A website for **ATEC Palmela's #TodosOsPassosContam initiative**: bringing class results, rankings and daily achievements together around a shared solidarity challenge.
+
+`Community project` `Leaderboards` `Social impact`
+
+### 🛍️ [Store Template](https://github.com/caeragasv3893-prog/Store-Template-Open-Source)
+
+A responsive fashion storefront built with **HTML, CSS and JavaScript**, featuring light and dark modes and a front-end shopping cart. A starting point for customisation.
+
+`Open source` `Responsive design` `Front-end only`
+
+### 🐧 [Fedora Dotfiles](https://github.com/caeragasv3893-prog/Fedora-Dotfiles)
+
+A work-in-progress home for my Fedora configuration. Still taking shape as I explore and refine my Linux setup.
+
+`Linux` `Fedora` `Work in progress`
+
+**[Browse all public repositories ↗](https://github.com/caeragasv3893-prog?tab=repositories&type=public)**
+
+## 03 / My toolbox
+
+Technologies I'm learning and working with across my projects.
 
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=python,c,cpp,cs,js,ts&theme=dark" alt="Python, C, C++, C sharp, JavaScript and TypeScript" />
+<img src="https://skillicons.dev/icons?i=python,c,cpp,cs,js,ts&amp;theme=dark" alt="Python, C, C++, C#, JavaScript and TypeScript" />
 
-**Development**
+**Web & interfaces**
 
-<img src="https://skillicons.dev/icons?i=react,nodejs,html,css,vite&theme=dark" alt="React, Node.js, HTML, CSS and Vite" />
+<img src="https://skillicons.dev/icons?i=html,css,react,nodejs,vite&amp;theme=dark" alt="HTML, CSS, React, Node.js and Vite" />
 
-**Tools & Platforms**
+**Tools & environment**
 
-<img src="https://skillicons.dev/icons?i=linux,git,github,vscode,visualstudio,cmake&theme=dark" alt="Linux, Git, GitHub, Visual Studio Code, Visual Studio and CMake" />
+<img src="https://skillicons.dev/icons?i=linux,git,github,vscode,visualstudio,cmake&amp;theme=dark" alt="Linux, Git, GitHub, VS Code, Visual Studio and CMake" />
 
-</div>
+## 04 / Learning path
 
-## GitHub Activity
+- **Studying:** software development at ATEC.
+- **Going deeper:** Python, C/C++, TypeScript and application architecture.
+- **Certifications:** Linux Essentials · Intermediate Python.
 
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=caeragasv3893-prog&show_icons=true&hide_title=true&border_radius=17&border_color=30243f&bg_color=0d1117&text_color=c9d1d9&icon_color=9b8afb&title_color=c9d1d9" alt="GitHub statistics" />
-&nbsp;
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caeragasv3893-prog&layout=compact&langs_count=6&border_radius=17&border_color=30243f&bg_color=0d1117&text_color=c9d1d9&title_color=c9d1d9" alt="Most used languages" />
-
-<br/><br/>
-
-<img width="96%" src="https://streak-stats.demolab.com?user=caeragasv3893-prog&theme=tokyonight&hide_border=true&border_radius=17&background=0D1117&ring=9B8AFB&fire=9B8AFB&currStreakLabel=C9D1D9&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B8B8B" alt="GitHub contribution streak" />
-
-</div>
+<br />
 
 ---
 
 <div align="center">
 
-*Learn the fundamentals. Build useful things. Keep improving.*
+<sub>From the first working version to the next better one.</sub>
 
-[**Explore all repositories →**](https://github.com/caeragasv3893-prog?tab=repositories)
+**Build. Understand. Improve.**
 
 </div>
