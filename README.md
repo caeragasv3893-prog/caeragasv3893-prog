@@ -1,111 +1,55 @@
-<!-- References: caneco/caneco, anuraghazra/anuraghazra. Technology logos: devicons/devicon. -->
+<!-- Monochrome profile. Technology logos adapted from devicons/devicon. -->
+<div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/caeragasv3893-prog/caeragasv3893-prog/main/assets/profile-v4/intro-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/caeragasv3893-prog/caeragasv3893-prog/main/assets/profile-v4/intro-light.svg" />
-  <img src="https://raw.githubusercontent.com/caeragasv3893-prog/caeragasv3893-prog/main/assets/profile-v4/intro-dark.svg" width="100%" alt="Hey, I'm Bruno." />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/caeragasv3893-prog/caeragasv3893-prog/main/assets/profile-mono/hero-light.svg" />
+  <img src="https://raw.githubusercontent.com/caeragasv3893-prog/caeragasv3893-prog/main/assets/profile-mono/hero-dark.svg" width="100%" alt="Bruno — Software development" />
 </picture>
 
-**Software development student at ATEC · Portugal**
+<p><b>Software Development Student</b><br />
+ATEC · Portugal</p>
 
-I'm into **desktop applications**, **web development** and **Linux**. I like taking an idea far enough to use it, then figuring out how to make it work better.
-
-Most of what you'll find here comes from coursework, personal experiments and things I wanted to try for myself.
+<p>I build web and desktop projects while learning how software works under the hood.<br />
+My interests include application architecture, Linux and practical development.</p>
 
 <br />
 
-### Languages & tools
+<h3>Languages &amp; tools</h3>
 
-The technologies I'm learning and using across my projects.
+<p><sub>Technologies I'm learning and working with</sub></p>
+
+<p><img src="https://raw.githubusercontent.com/caeragasv3893-prog/caeragasv3893-prog/main/assets/profile-mono/languages.svg" width="520" alt="Python, C, C++, C#, JavaScript and TypeScript" /><br />
+<sub>Python · C · C++ · C# · JavaScript · TypeScript</sub></p>
+
+<p><img src="https://raw.githubusercontent.com/caeragasv3893-prog/caeragasv3893-prog/main/assets/profile-mono/web.svg" width="520" alt="HTML, CSS, React, Node.js and Vite" /><br />
+<sub>HTML · CSS · React · Node.js · Vite</sub></p>
+
+<p><img src="https://raw.githubusercontent.com/caeragasv3893-prog/caeragasv3893-prog/main/assets/profile-mono/tools.svg" width="520" alt="Linux, Fedora, Git, VS Code, Visual Studio and CMake" /><br />
+<sub>Linux · Fedora · Git · VS Code · Visual Studio · CMake</sub></p>
+
+<br />
+
+<h3>Selected projects</h3>
 
 <p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="38" height="38" alt="Python" title="Python" />
-  &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="38" height="38" alt="C" title="C" />
-  &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="38" height="38" alt="C++" title="C++" />
-  &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="38" height="38" alt="C#" title="C#" />
-  &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="38" height="38" alt="JavaScript" title="JavaScript" />
-  &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="38" height="38" alt="TypeScript" title="TypeScript" />
+<a href="https://github.com/caeragasv3893-prog/Every-Step-Count"><img src="https://raw.githubusercontent.com/caeragasv3893-prog/caeragasv3893-prog/main/assets/profile-mono/every-step.svg" width="48%" alt="Every Step Count — Class results, rankings and daily achievements for ATEC Palmela's #TodosOsPassosContam solidarity challenge." /></a>
+&nbsp;
+<a href="https://github.com/caeragasv3893-prog/Store-Template-Open-Source"><img src="https://raw.githubusercontent.com/caeragasv3893-prog/caeragasv3893-prog/main/assets/profile-mono/store.svg" width="48%" alt="Store Template — Responsive HTML, CSS and JavaScript fashion storefront, with light/dark modes and a front-end shopping cart." /></a>
 </p>
-<sub>Python · C · C++ · C# · JavaScript · TypeScript</sub>
+
+<a href="https://github.com/caeragasv3893-prog/Fedora-Dotfiles"><img src="https://raw.githubusercontent.com/caeragasv3893-prog/caeragasv3893-prog/main/assets/profile-mono/fedora-link.svg" width="85%" alt="Fedora Dotfiles — Linux configuration, currently a work in progress." /></a>
+
+<p><a href="https://github.com/caeragasv3893-prog?tab=repositories&amp;type=public"><img src="https://raw.githubusercontent.com/caeragasv3893-prog/caeragasv3893-prog/main/assets/profile-mono/repositories-link.svg" width="65%" alt="View all public repositories" /></a></p>
 
 <br />
 
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="38" height="38" alt="HTML" title="HTML" />
-  &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="38" height="38" alt="CSS" title="CSS" />
-  &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="38" height="38" alt="React" title="React" />
-  &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="38" height="38" alt="Node.js" title="Node.js" />
-  &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vitejs/vitejs-original.svg" width="38" height="38" alt="Vite" title="Vite" />
-</p>
-<sub>HTML · CSS · React · Node.js · Vite</sub>
+<h3>Certifications</h3>
 
-<br />
-
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="38" height="38" alt="Linux" title="Linux" />
-  &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fedora/fedora-original.svg" width="38" height="38" alt="Fedora" title="Fedora" />
-  &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="38" height="38" alt="Git" title="Git" />
-  &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="38" height="38" alt="VS Code" title="VS Code" />
-  &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-original.svg" width="38" height="38" alt="Visual Studio" title="Visual Studio" />
-  &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cmake/cmake-original.svg" width="38" height="38" alt="CMake" title="CMake" />
-</p>
-<sub>Linux · Fedora · Git · VS Code · Visual Studio · CMake</sub>
+<img src="https://raw.githubusercontent.com/caeragasv3893-prog/caeragasv3893-prog/main/assets/profile-mono/certifications.svg" width="97%" alt="Linux Essentials — Linux fundamentals and command line. Intermediate Python — Python beyond the basics." />
 
 <br />
 <br />
 
-### A few things I've made
+<p><sub>Currently studying Python, C/C++, TypeScript and application architecture.</sub></p>
 
-#### [Every Step Count ↗](https://github.com/caeragasv3893-prog/Every-Step-Count)
-
-A website for **ATEC Palmela's #TodosOsPassosContam** solidarity challenge. Class results, rankings and daily achievements in one place, with a bit of friendly competition along the way.
-
-<sub>Community project / Web development</sub>
-
-<br />
-
-#### [Store Template ↗](https://github.com/caeragasv3893-prog/Store-Template-Open-Source)
-
-A fashion storefront template with responsive layouts, light and dark modes, and a front-end shopping cart. Built with **HTML, CSS and JavaScript**, and open for others to customise.
-
-<sub>Open source / Front-end only</sub>
-
-<br />
-
-#### [Fedora Dotfiles ↗](https://github.com/caeragasv3893-prog/Fedora-Dotfiles)
-
-A place for my Fedora configuration as I work on my Linux setup. Still a work in progress.
-
-<sub>Linux / Configuration</sub>
-
-<br />
-
-[See all public repositories →](https://github.com/caeragasv3893-prog?tab=repositories&type=public)
-
-<br />
-
-### What I'm learning
-
-I'm working on **Python**, **C/C++**, **TypeScript** and how to structure applications beyond the first working version.
-
-**Certifications** &nbsp; Linux Essentials · Intermediate Python
-
-<br />
-
----
-
-<sub>ATEC, Portugal &nbsp;·&nbsp; Desktop, web & Linux</sub>
+</div>
