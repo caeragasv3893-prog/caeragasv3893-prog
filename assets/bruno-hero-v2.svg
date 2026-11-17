@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="320" viewBox="0 0 1280 320" role="img" aria-labelledby="title desc">
+<title id="title">Bruno — Software Development Student</title>
+<desc id="desc">Minimal dark banner with a soft violet gradient. Software development student at ATEC, Portugal.</desc>
+<defs>
+  <radialGradient id="violet" cx="86%" cy="18%" r="85%">
+    <stop stop-color="#695096" stop-opacity=".48"/>
+    <stop offset=".55" stop-color="#352642" stop-opacity=".28"/>
+    <stop offset="1" stop-color="#101015" stop-opacity="0"/>
+  </radialGradient>
+  <radialGradient id="blue" cx="100%" cy="100%" r="65%">
+    <stop stop-color="#42476f" stop-opacity=".28"/>
+    <stop offset="1" stop-color="#101015" stop-opacity="0"/>
+  </radialGradient>
+  <clipPath id="frame"><rect width="1280" height="320" rx="16"/></clipPath>
+</defs>
+<g clip-path="url(#frame)">
+  <rect width="1280" height="320" fill="#101015"/>
+  <rect width="1280" height="320" fill="url(#violet)"/>
+  <rect width="1280" height="320" fill="url(#blue)"/>
+  <g font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif">
+    <text x="64" y="65" fill="#b2a7c8" font-size="13" font-weight="500" letter-spacing="3">SOFTWARE DEVELOPMENT</text>
+    <text x="58" y="184" fill="#f1edf7" font-size="100" font-weight="600" letter-spacing="-5">Bruno<tspan fill="#b4a0d5">.</tspan></text>
+    <text x="65" y="235" fill="#c6bfce" font-size="21" font-weight="400">Student at ATEC</text>
+    <text x="65" y="271" fill="#91879e" font-size="16">Desktop applications, web &amp; Linux</text>
+    <text x="1216" y="271" text-anchor="end" fill="#b2a7c8" font-size="14" letter-spacing="2">PORTUGAL</text>
+  </g>
+</g>
+</svg>
