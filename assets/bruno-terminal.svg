@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="420" viewBox="0 0 1280 420" role="img" aria-labelledby="title desc">
+  <title id="title">Bruno — software development student</title>
+  <desc id="desc">Dark terminal banner with green accents. ATEC, Portugal. Desktop apps, web and Linux. Build. Understand. Improve.</desc>
+  <defs>
+    <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0b1216"/><stop offset="1" stop-color="#111e23"/></linearGradient>
+    <linearGradient id="accent"><stop stop-color="#79f2b0"/><stop offset="1" stop-color="#7dd3fc"/></linearGradient>
+    <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse"><path d="M36 0H0V36" fill="none" stroke="#98b5bf" stroke-opacity=".07"/></pattern>
+  </defs>
+  <rect x="1" y="1" width="1278" height="418" rx="24" fill="url(#bg)" stroke="#294047"/>
+  <rect x="1" y="1" width="1278" height="418" rx="24" fill="url(#grid)"/>
+  <path d="M30 56H1250" stroke="#294047"/>
+  <g>
+    <circle cx="35" cy="29" r="6" fill="#fb7185"/><circle cx="56" cy="29" r="6" fill="#fbbf24"/><circle cx="77" cy="29" r="6" fill="#79f2b0"/>
+    <text x="106" y="34" fill="#8da5ad" font-family="monospace" font-size="13">bruno@github: ~</text>
+    <text x="1225" y="34" text-anchor="end" fill="#79f2b0" font-family="monospace" font-size="12">PERSONAL / DEV</text>
+  </g>
+  <g font-family="monospace">
+    <text x="56" y="111" fill="#79f2b0" font-size="16">$ whoami</text>
+    <text x="51" y="202" fill="#edf7f5" font-family="sans-serif" font-size="88" font-weight="700" letter-spacing="-4">Bruno<tspan fill="#79f2b0">.</tspan></text>
+    <text x="56" y="245" fill="#c0d0d3" font-size="20">Software Development Student</text>
+    <text x="56" y="276" fill="#8da5ad" font-size="16">ATEC / Portugal</text>
+    <rect x="56" y="311" width="361" height="35" rx="6" fill="#79f2b0" fill-opacity=".08" stroke="#33584b"/>
+    <text x="72" y="334" fill="#a9e8ca" font-size="14">DESKTOP APPS / WEB / LINUX</text>
+    <text x="56" y="389" fill="#8da5ad" font-size="13">Build. Understand. Improve.</text>
+  </g>
+  <g fill="none" stroke="url(#accent)" stroke-width="2">
+    <rect x="823" y="119" width="356" height="228" rx="14" opacity=".6"/>
+    <path d="M823 158H1179" opacity=".4"/>
+    <path d="M866 188L893 210L866 232M914 232H950" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M866 268H1108M866 287H1033M866 306H1072" opacity=".25"/>
+    <path d="M798 183H762V285H798M1204 183H1238V285H1204" opacity=".35"/>
+  </g>
+  <g fill="#79f2b0"><circle cx="846" cy="139" r="3"/><circle cx="859" cy="139" r="3" opacity=".5"/><circle cx="872" cy="139" r="3" opacity=".25"/></g>
+</svg>
