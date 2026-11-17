@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/bruno-terminal.svg" width="100%" alt="Bruno — Software Development Student at ATEC, Portugal. Desktop apps, web and Linux." />
+<img src="https://raw.githubusercontent.com/caeragasv3893-prog/caeragasv3893-prog/8ec78a66a9d2729a07b1aa0bc464aa34467eda6f/assets/bruno-hero-v2.svg" width="100%" alt="Bruno — Software Development Student at ATEC, Portugal. Desktop apps, web and Linux." />
 
 <br />
 
