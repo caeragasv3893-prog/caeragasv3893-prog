@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="235" viewBox="0 0 1200 235" role="img" aria-labelledby="title">
+<title id="title">Hey, I'm Bruno — software development student, ATEC, Portugal</title>
+<defs><linearGradient id="ink" x2="1" y2=".3"><stop stop-color="#e5dcf7"/><stop offset="1" stop-color="#bfa3ed"/></linearGradient><linearGradient id="line"><stop stop-color="#a982d1" stop-opacity="0"/><stop offset=".5" stop-color="#a982d1" stop-opacity=".75"/><stop offset="1" stop-color="#a982d1" stop-opacity=".1"/></linearGradient></defs>
+<text x="20" y="48" fill="#a69aaf" font-family="Arial,sans-serif" font-size="22">Hey, I'm</text>
+<text x="14" y="168" fill="url(#ink)" font-family="Georgia, 'Times New Roman', serif" font-style="italic" font-size="128" letter-spacing="-7">Bruno.</text>
+<g fill="none" stroke="url(#line)" stroke-linecap="round">
+<path d="M510 150C650 150 620 34 794 76S1025 200 1180 88" stroke-width="2"/>
+<path d="M510 166C650 166 655 67 811 99S1035 204 1180 116" stroke-width="1.5" opacity=".65"/>
+<path d="M510 181C650 181 690 103 830 121S1045 207 1180 144" stroke-width="1" opacity=".35"/>
+</g>
+<path d="M23 202C125 198 244 206 339 199" fill="none" stroke="#ac84d5" stroke-width="2" stroke-linecap="round" opacity=".65"/>
+</svg>
